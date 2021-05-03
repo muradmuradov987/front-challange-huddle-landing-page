@@ -1,0 +1,47 @@
+body {
+    background-image: url(../Images/bg-mobile.svg);
+}
+
+.container {
+    padding-top: 40px;
+    padding: 30px 30px;
+}
+
+nav img {
+    width: 180px;
+}
+
+main {
+    flex-direction: column;
+}
+
+.bg-image {
+    width: 100%;
+}
+
+.text-content {
+    text-align: center;
+    width: 100%;
+    padding: 50px 0px 0px 0px;
+}
+
+.text-content h1 {
+    font-size: 25px;
+}
+
+.text-content p {
+    font-size: 16px;
+}
+
+button {
+    padding: 15px 80px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer i {
+    font-size: 20px;
+}
