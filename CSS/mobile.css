@@ -38,6 +38,8 @@ button {
 }
 
 footer {
+    margin-top: 20px;
+    position: relative;
     display: flex;
     justify-content: center;
 }
